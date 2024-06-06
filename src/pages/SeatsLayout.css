@@ -1,0 +1,51 @@
+.seats-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.seat-row {
+    display: flex;
+}
+
+.h5 {
+    align-items: center;
+}
+
+.flight-layout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-items: flex-end;
+    padding-bottom: 1rem;
+}
+
+hr.divider{
+    border-top: 3px solid #bbb;
+}
+.btn.group{
+    flex-direction: column !important;
+    justify-content: space-around;
+    align-items: center;
+}
+.reserve-btn{
+    margin-bottom: 1rem;
+    background-color: #4875be;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 10px;
+    border: 1px solid #a1a1a1;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.pay-btn{
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    background-color: #26292c;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 10px;
+    border: 1px solid #a1a1a1;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 100pxcd;
+}

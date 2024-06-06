@@ -1,0 +1,12 @@
+.payment-wrapper {
+    background-color: #ccc;
+    padding: 1rem;
+    margin: 1rem;
+    border: #414141;
+    border-radius: 10px;
+}
+
+.payment-details {
+    margin-bottom: 0px;
+    font-weight: 600;
+}

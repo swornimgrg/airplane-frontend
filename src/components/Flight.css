@@ -1,0 +1,14 @@
+.flight-container {
+    margin-top: 50px;
+}
+
+.search-btn {
+    margin: 20px auto !important;
+    color: white;
+    border: none;
+}
+
+.search-btn:hover {
+    background-color: rgb(181, 140, 221);
+    color: white;
+}
